@@ -1,6 +1,7 @@
 # DjangoBlog
 
 借鉴于开源项目，链接：https://github.com/liangliangyy/DjangoBlog
+
 基于`python3.10`和`Django4.0`的博客。
 ## 主要功能：
 - 文章，页面，分类目录，标签的添加，删除，编辑等。文章、评论及页面支持`Markdown`，支持代码高亮。
