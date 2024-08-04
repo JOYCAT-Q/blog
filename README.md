@@ -1,4 +1,4 @@
-# DjangoBlog
+# Blog
 
 借鉴于开源项目，链接：https://github.com/liangliangyy/DjangoBlog
 
